@@ -14,11 +14,11 @@ To see the available options run:
 python nova-db-purge -h
 
 There 5 optional arguments: <br />
---date DATE      Remove deleted instances until this date
---file FILE      Remove deleted instances defined in the file
---cell CELL      Remove instances that belong to cell
---dryrun         Don't delete instances
---config CONFIG  Configuration file
+--date DATE      Remove deleted instances until this date <br />
+--file FILE      Remove deleted instances defined in the file <br />
+--cell CELL      Remove instances that belong to cell <br />
+--dryrun         Don't delete instances <br />
+--config CONFIG  Configuration file <br />
 
 
 Examples
